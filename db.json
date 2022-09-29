@@ -1,0 +1,25 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React hooks",
+      "inicio": "2022-09-27T09:00",
+      "fim": "2022-09-27T13:00",
+      "completo": false,
+      "id": 101
+    },
+    {
+      "descricao": "Estudar React",
+      "inicio": "2022-09-29T09:00",
+      "fim": "2022-09-29T13:00",
+      "completo": false,
+      "id": 102
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-09-28T09:00",
+      "fim": "2022-01-28T11:00",
+      "completo": false,
+      "id": 103
+    }
+  ]
+}
